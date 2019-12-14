@@ -1,6 +1,6 @@
 # Bootstrap projects
 ## Introduction
-This project is a build along project adpoted from [this Udemy course]([www.udemy.com](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)). Project objective is getting myself familiar with a front end development framework. 
+This project is a build along project adpoted from [this Udemy course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/). Project objective is getting myself familiar with a front end development framework. 
 ## Reasons
 - My research assistant job nature requires a mild skill level of static webpage development, [Jekyll](https://jekyllrb.com/), the original tool, was adopted by my preceedent for this purpose. 
 - However, with the growth of the center, the demand of the website's functionality increased.
