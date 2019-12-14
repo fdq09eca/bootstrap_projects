@@ -7,10 +7,9 @@ This project is a build along project adpoted from [this Udemy course](https://w
 The static generator becomes inefficent in terms of editing the content and managing the structure. 
 - Bootstrap is prefered in this context because its commoness, ease of alternation and documentation completeness. Moreover, it blends well with backend framework, for example, flask. It is also benefitial for the next RA to pick this duty up easily. 
 ## Learned
-1. HTML `Grid box` and `Flex box` structure.
+1. `Grid box` and `Flex box` build order
    -  `.container>.row>.col>.flex.align-self-start*2`
 2. responsive grid box
    - `.d-none.col-md-3.col-lg-6`
-3. html structure
-4. css attributes behavior.
-5. sass compiling e.g. `$variable`
+3. HTML CSS attributes behavior.
+4. SASS compiling e.g. `$variable`
